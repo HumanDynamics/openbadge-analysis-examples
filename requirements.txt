@@ -1,0 +1,14 @@
+# Misc
+#matplotlib
+scipy
+numpy
+pandas
+sklearn
+
+# Vizualization
+bokeh==0.12.1
+ggplot
+seaborn
+
+# Analysis lib
+git+git://github.com/HumanDynamics/openbadge-analysis.git

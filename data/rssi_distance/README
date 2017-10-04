@@ -1,0 +1,18 @@
+Experiments by Kumaresh Krishnan
+
+expt 1 - On the floor. Track distances with one badge upto 14 ft. Plotted only till 12 ft
+
+expt 2 - Elevated level (). Track distances with one badge upto 14 ft. sample_pyser modified to store everything in a single line. So extraction code and iPython notebook are updated from here on
+
+expt 3 - Experiment on 6th floor open room with distance from 2ft till 30ft
+
+expt 4 - 1 meter test to figure out the offset for the rssi to distance formula. Test with 1 badge at 1m distance
+
+expt 5 - 1 meter test using badges on humans
+
+expt 6 - 20 (or 5) badges count test to figure out the time window - try it for 2ft and 6ft
+
+expt 7 - Basement test with 4 badges on facing front on the stand. The receiver is outside the case
+
+expt 8 - Same as 7 with the receiverinside Distnces from 2ft till 10ft
+

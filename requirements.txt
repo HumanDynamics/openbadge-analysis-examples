@@ -4,6 +4,7 @@ scipy
 numpy
 pandas
 sklearn
+networkx
 
 # Vizualization
 bokeh==0.12.1

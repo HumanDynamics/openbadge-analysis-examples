@@ -13,3 +13,6 @@ seaborn
 
 # Analysis lib
 git+git://github.com/HumanDynamics/openbadge-analysis.git
+
+# If you are still editing the library, you can point pip to your local copy, for example:
+pip install -e /home/orenled/Dropbox/code/openbadge-analysis --upgrade

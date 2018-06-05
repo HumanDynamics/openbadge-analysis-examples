@@ -2,7 +2,7 @@
 #matplotlib
 scipy
 numpy
-pandas
+pandas=0.20.3
 sklearn
 networkx
 
@@ -15,4 +15,4 @@ seaborn
 git+git://github.com/HumanDynamics/openbadge-analysis.git
 
 # If you are still editing the library, you can point pip to your local copy, for example:
-pip install -e /home/orenled/Dropbox/code/openbadge-analysis --upgrade
+# pip install -e /home/orenled/Dropbox/code/openbadge-analysis --upgrade

@@ -1,8 +1,9 @@
 # Misc
 #matplotlib
+numpy==1.14.5
+statsmodels==0.8.0
 scipy
-numpy
-pandas=0.20.3
+pandas==0.20.3
 sklearn
 networkx
 

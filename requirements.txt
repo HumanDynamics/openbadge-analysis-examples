@@ -5,7 +5,7 @@ statsmodels==0.8.0
 scipy
 pandas==0.20.3
 sklearn
-networkx
+networkx==1.11
 
 # Vizualization
 bokeh==0.12.1
